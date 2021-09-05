@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dao Duc Nhat. I am a student at University Of Economic HCM City
+My name is Dao Duc Nhat. I am a student at University of Economics Ho Chi Minh City
 <!--
 **Peaches3010/Peaches3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
